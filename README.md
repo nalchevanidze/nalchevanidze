@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nalchevanidze
+- 👀 I’m interested in functional programing
+- 🌱 I’m currently learning rust
