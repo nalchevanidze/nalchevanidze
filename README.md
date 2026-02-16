@@ -7,21 +7,21 @@ While my professional focus is on shipping reliable production code in TypeScrip
 *The following projects represent my research into type-safety, automation, and real-time systems:*
 
 #### [Morpheus GraphQL](https://github.com/morpheusgraphql/morpheus-graphql) (Haskell)
-* **The Project:** A leading Haskell EDSL for building type-safe GraphQL APIs and tools.
-* **Why it matters:** Demonstrates my ability to solve complex type-level programming challenges and API design problems.
+* **What it is:** A fully type-safe GraphQL server and client for Haskell.
+* **Key Feature:** Uses metaprogramming (Template Haskell) to generate executable APIs directly from schema definitions at compile-time, preventing runtime type errors.
 
 #### [relasy](https://github.com/nalchevanidze/relasy) (TypeScript)
-* **The Project:** A label-driven automated release manager for CI/CD pipelines.
-* **Why it matters:** Highlights my focus on improving developer experience (DX) through smart automation.
+* **What it is:** A label-driven release automation tool for GitHub Actions.
+* **Key Feature:** Automates semantic versioning, changelog generation, and npm publishing based on Pull Request labels and custom configuration.
 
 #### [hwm](https://github.com/nalchevanidze/hwm) (Haskell)
-* **The Project:** A powerful CLI tool for managing Haskell monorepos with multi-GHC support.
-* **Why it matters:** Highlights my focus on developer productivity by orchestrating complex workflows and ensuring system reliability.
+* **What it is:** A workspace manager for handling complex Haskell monorepos.
+* **Key Feature:** Orchestrates builds across packages requiring different GHC compiler versions and manages isolated development environments.
 
 #### [wdaw](https://github.com/nalchevanidze/wdaw) (TypeScript/React)
-* **The Project:** A high-performance Web Audio Workstation.
-* **Why it matters:** Demonstrates capability in managing complex real-time state and low-latency processing in the browser.
+* **What it is:** A web-based Digital Audio Workstation (DAW).
+* **Key Feature:** Implements a low-latency audio graph engine in the browser with real-time synthesis, sequencing, and state management.
 
 #### [awscurl-rs](https://github.com/nalchevanidze/awscurl-rs) (Rust)
-* **The Project:** A Rust-based CLI for secure MQTT/HTTPS interaction with AWS IoT.
-* **Why it matters:** Reflects my shift toward systems-level engineering for secure, lightweight infrastructure.
+* **What it is:** A CLI utility for interacting with AWS services via the command line.
+* **Key Feature:** Handles AWS Signature V4 signing for secure HTTP requests, specifically optimized for testing AWS IoT Core and MQTT endpoints.
